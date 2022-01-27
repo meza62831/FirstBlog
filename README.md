@@ -10,5 +10,6 @@ En este curso he aprendido lo siguiente:
 * Algo de HTML
 * Flujo de trabajo en equipo
 * Y más!
+* Mucho más!!!
 
 Y también como poner negritas, mira **NEGRITAS**
